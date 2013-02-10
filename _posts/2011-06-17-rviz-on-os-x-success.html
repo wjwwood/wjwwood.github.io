@@ -1,0 +1,31 @@
+--- 
+published: true
+status: publish
+tags: 
+- Diamondback
+- Mac OS X
+- Macports
+- Robotics
+- Robots
+- ROS
+- RViz
+meta: 
+  original_post_id: "43"
+  _wp_old_slug: "43"
+  _edit_last: "7365446"
+type: post
+layout: post
+title: RViz on OS X, Success!
+---
+After working with my friend <a title="John" href="http://greaterthaninfinity.com/">John</a>, we have put together a decent one-stop-shop for solving the issues encountered when trying to compile <a title="ROS" href="http://www.ros.org/wiki/">ROS</a>, and specifically <a title="RViz" href="http://www.ros.org/wiki/rviz">RViz</a> for OS X.  The solution we managed to find is a combination of building all macports as +universal, limiting the system to 1 version of Python (2.6.x for us), and forcing all of ROS to be build as i386 with the CMAKE_OSX_ARCHITECTURES="i386" environment variable.  This strategy is based on a comment on a <a href="https://code.ros.org/trac/ros-pkg/ticket/4788#comment:8">ticket</a> by Dave(email me with your contact info for citation if you like) on the ros-pkg trac.
+
+And here is a snapshot!
+
+<a href="http://williamjwoodall.files.wordpress.com/2011/06/rviz-on-osx.png"><img class="alignnone size-large wp-image-44" title="RViz on OSX" src="http://williamjwoodall.files.wordpress.com/2011/06/rviz-on-osx.png?w=1024&h=640" alt="Running RViz on my OS X Macbook Pro" width="715" height="446" /></a>
+
+<!--more-->
+We have our wiki page that details the steps involved on github, here: <a href="https://github.com/wjwwood/ros-osx/wiki">https://github.com/wjwwood/ros-osx/wiki</a>
+
+Most of the things on the wiki are solved problems that are either tickets that have been solved up stream but haven't been backported to diamondback yet, or are simple tricks to getting <a title="ROS" href="http://www.ros.org/wiki/">ROS</a>, and macports to play nice.  Hopefully the guide won't even be necessary once <a title="Electric Emys" href="http://www.ros.org/wiki/electric">Electric Turtle</a> is released.
+
+I am very pleased with the performance(~20% cpu use on data in screenshot below), but there are still some usability issues, some of which I have noticed on my VM's too, I have been keeping track of them and I hope to make tickets for them soon and maybe even try patches for them.
