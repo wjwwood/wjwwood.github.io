@@ -9,6 +9,14 @@ title: Projects
 ---
 This is where I try to keep track of my projects I have worked on, my [github page](https://github.com/wjwwood) is probably more up-to-date on average.
 
+### ROS
+
+I am a core developer of the [Robot Operating System](http://ros.org/wiki):
+
+[https://github.com/ros/](https://github.com/ros/)
+
+[https://github.com/ros-infrastructure/](https://github.com/ros-infrastructure/)
+
 ### Segway RMP Library
 
 I created a library (and ROS nodes) for interfacing with Segway Robotic Mobile Platforms (RMP's):
