@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/william
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://wjwwood.io
+  * I am william (https://keybase.io/william) on keybase.
+  * I have a public key with fingerprint 5C11 517C 7147 71CC 1F2A  7547 C66B D76F AD38 DF0C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "5c11517c714771cc1f2a7547c66bd76fad38df0c",
+            "host": "keybase.io",
+            "key_id": "c66bd76fad38df0c",
+            "uid": "d23a60b034dbc4e28245ef7f6c280000",
+            "username": "william"
+        },
+        "service": {
+            "hostname": "wjwwood.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396556465,
+    "expire_in": 157680000,
+    "prev": "6ad8f5cc7e84df6e9da345c7ef316f890fed757263d93f85efa85e23d828c86d",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.3
+Comment: https://keybase.io/crypto
+
+yMHpAnicbZF/SFNrGMc3l2Y60RCkJFPfPyRh5s6vH1vILoUT0QgtQildZ+/7Hndy
+7syzM5fteokI4hKR3AtXy5hQF4kEQxGh1FKzmyWZUUElmRblrUD8wxQKyXcr/+v8
+cQ7P93ye7/d5eMZTTIYkY0C5cbuRwvHGyZHFoOFg0VhvGLhV1AzsYVCPYx9Z8dVh
+za8pPh3YAQcpiqMEKFCsIFAQUjItCRwrQJ53I4GXJcSISLZCYAEeNRDtIDZuKYB3
+KyrRSOFSEFF/wQdjPxDNSLzVbWVY5IYspkWa5bAsyDykRSt5omAAaz6pARM6pHi9
+itQAWiyAiE0KJGI4lrwBHA+FVBX9SPdrqq5C1Ut0j6777dE2vdkf47Db9dPB5VZ8
+iCxNGpqwFlBUH7BThIS6ErWkGBvPcTzLcxaAT/gVDbuUKMEJfGzAaAxuIpa8hESZ
+g1DAIotkHtuQxLAcKWWG4mXRZpUxEjiB5hlkY2SRbCmRF80gkRahyCOSH8CNPhXY
+GTKmVEcsA0qdT9KDGgYtYyNHNxmMSYaE+Ljo2QxJW9I2jum9uPn7H6dXzfFSYfrd
+9oHXOW1V7WVplvrg2tR/23cm9sx/6nv1tXJXf0/1RNbz9OqViq6hnAeDeXFXyiKJ
+zND7tpdqhe7gOrYNlvS/qXwyW+QpdszX7P2r6sDo6t/9cH+rWe3I/nh1eO5c7+yE
+lJnSnS0NTDu7ix/l/VZQe/iLY3TG9L9UEFnat9LqrD20YyS9eio3P/f3C51O7Vbq
+nc7xUPn9pXugzzr/Z+nbxRIlzn5qa3JyqjniWZicKf28+HQ6a+0flz40XGP6d0XI
+CBeudV3/dvJFwiWQ32Y5fxNmRh6fKX9mWhj2LL8zjg92JqPWaw9bHGZNP3Z2bk9G
+jvPDkcvdy+v3VhOK
+=+dKv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/william
+
+==================================================================
