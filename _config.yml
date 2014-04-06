@@ -2,7 +2,7 @@ name: William Woodall
 markdown: redcarpet
 pygments: true
 
-production_url: http://wjwwood.io
+url: http://wjwwood.io
 
 author:
   name: William Woodall
