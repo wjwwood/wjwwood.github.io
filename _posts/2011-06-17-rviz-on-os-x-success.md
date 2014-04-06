@@ -8,7 +8,7 @@ After working with my friend [John](http://greaterthaninfinity.com/), we have pu
 
 And here is a snapshot!
 
-![Running RViz on my OS X Macbook Pro](/img/rviz-on-osx.png "Running RViz on my OS X Macbook Pro")
+![Running RViz on my OS X Macbook Pro]({{ site.url }}/img/rviz-on-osx.png "Running RViz on my OS X Macbook Pro")
 
 We have our wiki page that details the steps involved on github, here:
 

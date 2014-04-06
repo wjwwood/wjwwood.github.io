@@ -11,4 +11,4 @@ More details will follow soon, in the mean time:
 
 Screenshot!
 
-![rViz on OS X 10.7 Lion](/img/rviz-on-osx-reloaded.png "rViz on OS X 10.7 Lion")
+![rViz on OS X 10.7 Lion]({{ site.url }}/img/rviz-on-osx-reloaded.png "rViz on OS X 10.7 Lion")

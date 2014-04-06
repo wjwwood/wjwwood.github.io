@@ -9,4 +9,4 @@ We made the front page "featured" news on Auburn's website!
 
 Here's a photo:
 
-![moe_back_angle_ros_sticket](/img/moe_back_angle_ros_sticket.jpg "moe_back_angle_ros_sticket")
+![moe_back_angle_ros_sticket]({{ site.url }}/img/moe_back_angle_ros_sticket.jpg "moe_back_angle_ros_sticket")

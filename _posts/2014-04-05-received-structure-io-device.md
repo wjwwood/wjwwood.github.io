@@ -8,7 +8,7 @@ On Friday I finally received my [Structure.io](http://structure.io/) device from
 
 Obviously I wanted to see if it worked with the openni2 ROS drivers, so plugged it into my MacBook and ran the `openni2.launch` launch file in the `openni2_launch` package. I was easily then able to then subscribe to the depth image using `rqt`'s `Image View` plugin:
 
-![Structure.io device](/img/structure-io-device.png)
+![Structure.io device]({{ site.url }}/img/structure-io-device.png)
 
 I ran into some trouble getting the point clouds to publish, but I think that has to do with some assumption about the device that the ROS driver is making. I think it may be assuming that it has a color camera and so it will try to output colored point clouds. I am not 100% certain about that, but I will probably try to dig into the issue at some point now that I have the device in hand.
 

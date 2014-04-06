@@ -4,7 +4,7 @@ title: Résumé
 ---
 
 <div style="float: right">
-    <a href="/resume.pdf">Click here for a PDF</a>
+    <a href="{{ site.url }}/resume.pdf">Click here for a PDF</a>
 </div>
 
 ## William Joseph Woodall IV

@@ -9,7 +9,7 @@ Problem though, the stage that comes with ROS didn't work on OS X, but thanks to
 
 Another problem, stageros, the wrapper for Stage to interact with ROS, was designed for a pervious Stage API and didn't compile.  So we set out to update rosstage to support <a href="https://github.com/rtv/Stage">Stage4</a>.  We managed to get everything to point where it worked on OS X and Linux.
 
-![Stage4 plus rViz on OS X](/img/ros_and_stage_on_os_x.png "Stage4 plus rViz on OS X")
+![Stage4 plus rViz on OS X]({{ site.url }}/img/ros_and_stage_on_os_x.png "Stage4 plus rViz on OS X")
 
 After spending some time fixing the issues (mostly trivial things) we discovered that Vaughan head already done most of this in the trunk of ROS's stage unary stack, doh.
 

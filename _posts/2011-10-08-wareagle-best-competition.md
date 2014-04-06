@@ -7,7 +7,7 @@ Today is the [WarEagle BEST](http://www.wareaglebest.org/) Hub's middle/high sch
 
 We are at Wetumpka High School in Wetumpka, AL and we have 16 middle and high schools here pitting their robot design against each other in this local competition of the Bugs! BEST game!
 
-![Competition Photo](/img/photo-oct-08-1-35-09-pm.jpg "Competition Photo")
+![Competition Photo]({{ site.url }}/img/photo-oct-08-1-35-09-pm.jpg "Competition Photo")
 
 You can find details on the game this year [here](http://bestinc.org/b_game_rules.php).
 
