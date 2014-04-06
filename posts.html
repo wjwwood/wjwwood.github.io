@@ -1,0 +1,11 @@
+---
+layout: default
+title: Posts
+---
+
+<div class="col-lg-12">
+{% for post in site.posts %}
+  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  <p><em>{{ post.date | date_to_string }}</em></p>
+{% endfor %}
+</div>
