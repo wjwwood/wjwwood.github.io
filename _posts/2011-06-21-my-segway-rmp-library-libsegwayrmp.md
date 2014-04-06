@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Segway RMP Library: libsegwayrmp"
+comments: true
 ---
 
 I have been working a library for interfacing with the Segway RMP series of mobile robots.  You can find the source online at <a href="https://github.com/segwayrmp/libsegwayrmp">https://github.com/segwayrmp/libsegwayrmp</a>, and the documentation at <a href="http://segwayrmp.github.com/libsegwayrmp/">http://segwayrmp.github.com/libsegwayrmp/</a>.  I decided to take this step because I needed several things in a rmp library that I couldn't find all in one place.  Those things included:

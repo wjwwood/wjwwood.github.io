@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ROS and Stage4 on OS X
+comments: true
 ---
 So for my autonomous mobile robotics class I am taking this semester my class project is going to be a new coverage path planner for the Autonomous Lawnmower.  We have decided to develop this planner in simulation and as we surveyed the landscape (MORSE, Gazebo, Stage, and Custom built) we landed on Stage.
 

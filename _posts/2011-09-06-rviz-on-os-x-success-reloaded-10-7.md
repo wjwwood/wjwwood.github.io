@@ -1,6 +1,7 @@
 ---
 layout: post
 title: rViz on OS X, Success Reloaded! (10.7)
+comments: true
 ---
 I managed to get rViz running this evening on OS X 10.7 using homebrew as the package manager!
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WarEagle BEST Mall-day
+comments: true
 ---
 This past Sunday was the Mall-day for the [WarEagle BEST](http://www.wareaglebest.org/) hub.  On Mall-day the kids bring their robots to a local Mall to try out their robots on a competition field and to survey the competition.  This year there were some interesting looking designs ranging from a worm gear made from sheets of PVC to a 4-wheeled differential drive robot with scissor arm.
 

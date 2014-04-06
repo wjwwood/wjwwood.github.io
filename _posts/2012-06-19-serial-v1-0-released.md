@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Serial v1.0 Released
+comments: true
 ---
 After several months of work, Serial v1.0 is out!  Serial is Cross-platform serial (rs-232) library written in C++.  You can grab it at my github page:
 

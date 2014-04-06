@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top Story: Automow Team Takes 2nd"
+comments: true
 ---
 We made the front page "featured" news on Auburn's website!
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Received Structure.io Device
+comments: true
 ---
 
 On Friday I finally received my [Structure.io](http://structure.io/) device from my backing them on Kickstarter!

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WarEagle BEST Competition!
+comments: true
 ---
 Today is the [WarEagle BEST](http://www.wareaglebest.org/) Hub's middle/high school robotics competition!
 
