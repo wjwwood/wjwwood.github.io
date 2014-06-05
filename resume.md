@@ -46,8 +46,8 @@ These are the languages in which I have work a non-trivial amount (listed in ord
 
 - Python
 - C++
-- Javascript
 - C
+- Javascript/Coffeescript
 - Java
 
 I have experience with these major Operating Systems:
@@ -57,6 +57,6 @@ I have experience with these major Operating Systems:
 - Linux
  - I have used Linux since starting on Gentoo in 2007, and I would consider myself an expert
 - OS X
- - I do all my personal and professional development on my MacBook, often do my testing under Linux
+ - I do all my personal and professional development on my MacBook using OS X
 
-For development, I am grew up working in Textmate OS X, and these days I am using Sublime Text, but I am looking forward to [atom.io](https://atom.io/). So I normally work with a solid text editor and command line tools in a terminal. I use IDE's when appropriate to the environment like for iOS or Android development.
+For development, I am grew up working in Textmate on OS X, and these days I am using Sublime Text, but I am looking forward to [atom.io](https://atom.io/). So I normally work with a solid text editor and command line tools in a terminal. I use IDE's only when appropriate for the environment like for iOS or Android development.
