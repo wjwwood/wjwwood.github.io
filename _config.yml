@@ -1,5 +1,5 @@
 name: William Woodall
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 url: http://wjwwood.io
