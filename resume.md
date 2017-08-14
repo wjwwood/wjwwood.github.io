@@ -3,16 +3,16 @@ layout: default
 title: Résumé
 ---
 
-<div style="float: right">
+<!-- <div style="float: right">
     <a href="{{ site.url }}/resume.pdf">Click here for a PDF</a>
-</div>
+</div> -->
 
 ## William Joseph Woodall IV
 ----
 
 I am a roboticist with a Master's degree in Software Engineering.
 I have a passion for Robotics, Open Source software, and Education.
-To that end I work on Open Source robotics software which is used widely in the academic world.
+To that end I work on open source robotics software which is used widely in the academic world.
 
 ### Education
 
@@ -22,7 +22,7 @@ To that end I work on Open Source robotics software which is used widely in the 
 
 ### Work
 
-- __Open Source Robotics Foundation__, _Mountain View, CA_
+- __Open Robotics__, _Mountain View, CA_
   - Software Engineer (_February 2013 - Present_)
 - __Willow Garage__, _Menlo Park, CA_
   - Software Engineer (_August 2012 - February 2013_)
