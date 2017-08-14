@@ -3,16 +3,12 @@ layout: default
 title: Résumé
 ---
 
-<!-- <div style="float: right">
-    <a href="{{ site.url }}/resume.pdf">Click here for a PDF</a>
-</div> -->
-
 ## William Joseph Woodall IV
 ----
 
 I am a roboticist with a Master's degree in Software Engineering.
 I have a passion for Robotics, Open Source software, and Education.
-To that end I work on open source robotics software which is used widely in the academic world.
+To that end I work on open source robotics software which is used widely in academics, as well as by hobbyists and industry.
 
 ### Education
 
@@ -42,9 +38,9 @@ For more projects see my [Project](/projects.html) page.
 
 ### Technical Skills
 
-I have an extensive code portfolio at Github: [https://github.com/wjwwood](https://github.com/wjwwood)
+I have an extensive code portfolio on Github: [https://github.com/wjwwood](https://github.com/wjwwood)
 
-These are the languages in which I have work a non-trivial amount (listed in order of proficiency):
+These are the languages in which I have worked a non-trivial amount:
 
 - Python
 - C++
@@ -61,7 +57,7 @@ I have experience with these major Operating Systems:
   - I have used Linux since I started using Gentoo in 2007, and I would consider myself an expert
   - I have extensive C++ and Python experience on Linux as part of ROS and ROS 2.0 work
 - OS X
-  - I do all my personal and professional development on a macbook pro using macOS
+  - I do all my personal and professional development on a MacBook Pro using macOS
 
 For development, I started out working in Textmate on OS X, and these days I am using Sublime Text, but I am looking forward to [atom.io](https://atom.io/).
 I normally work only with a solid text editor and command-line tools in a terminal.
