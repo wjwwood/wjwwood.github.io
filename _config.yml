@@ -1,6 +1,6 @@
 name: William Woodall
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 url: http://wjwwood.io
 
